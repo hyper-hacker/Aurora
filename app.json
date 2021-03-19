@@ -1,0 +1,10 @@
+{
+    "name": "Aurora",
+    "description": "Proxy",
+    "repository": "https://github.com/omer515/Aurora",
+    "logo": "https://raw.githubusercontent.com/binary-person/womginx/master/public/logo.png",
+    "keywords": [
+        "Proxy"
+    ],
+    "stack": "container"
+}
