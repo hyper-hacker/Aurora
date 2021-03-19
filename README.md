@@ -3,3 +3,5 @@ A fast and powerful proxy made in go. This project is currently in beta. Anythin
 
 # Contributing Information
 Please send your changes through a pull request. Make sure you run gofmt before you commit your changes if you modify or create a go file.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
